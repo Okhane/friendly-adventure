@@ -4,6 +4,7 @@ Application Calculatrice avec tests de l'interface graphique intégrés
 
 Par Pier-Olivier Vermette et
     Jean-Sébastien St-Pierre
+    Pour le cours de VVL
 
 """
 
